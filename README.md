@@ -1,7 +1,7 @@
 Folder/file                         Purpose
 
 
-Assignment-20230401T120858Z-001 -  Data that is used
+20230401T120858Z-001            -  Data that is used
 src                             -  Source Code of the Assignment
 my_solution.ipynb               -  Test case of my solution in ipynb
 Alternate_Solution.ipynb        -  Alternate solution 
